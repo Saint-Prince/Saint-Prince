@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Senior Full-Stack Developer and I love keeping in touch with colleagues.</h1>
+<h1 align="center">Hi 👋, I'm a Senior Full-Stack Developer.</br>I love keeping in touch with colleagues.</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
