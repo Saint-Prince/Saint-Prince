@@ -15,4 +15,3 @@
 
 &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saint-prince&show_icons=true&locale=en" alt="saint-prince" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saint-prince&" alt="saint-prince" /></p>
